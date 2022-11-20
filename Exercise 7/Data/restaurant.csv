@@ -1,0 +1,13 @@
+choice,bar,day,hungry,patron,price,rain,booking,type,time,wait
+T,F,F,T,some,$$$,F,T,french,0,yes
+T,F,F,T,full,$,F,F,thai,40,no
+T,T,F,F,some,$,F,F,swiss,0,yes
+T,F,T,T,full,$,F,F,thai,20,yes
+T,F,T,F,full,$$$,F,T,french,60,no
+F,T,F,T,some,$$,T,F,italian,0,yes
+F,T,F,F,none,$,T,F,swiss,20,no
+F,F,F,T,some,$$,T,T,thai,0,yes
+F,T,T,F,full,$,T,F,swiss,60,no
+T,T,T,T,full,$$$,F,T,italian,20,no
+F,F,F,F,none,$,F,F,thai,0,no
+T,T,T,T,full,$,F,F,swiss,40,yes
